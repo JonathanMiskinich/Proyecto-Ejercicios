@@ -1,0 +1,15 @@
+[submodule "Gestion-Pedidos-Restaurante"]
+	path = Gestion-Pedidos-Restaurante
+	url = https://github.com/JonathanMiskinich/Gestion-Pedidos-Resto.git
+[submodule "Gestion-Turnos-Clinica"]
+	path = Gestion-Turnos-Clinica
+	url = https://github.com/JonathanMiskinich/Gestion-Turnos-Clinica.git
+[submodule "Pagos-Ecommerce"]
+	path = Pagos-Ecommerce
+	url = https://github.com/JonathanMiskinich/Pagos-Ecommerce.git
+[submodule "Inventario-TiendaOnline"]
+	path = Inventario-TiendaOnline
+	url = https://github.com/JonathanMiskinich/Inventario-TiendaOnline.git
+[submodule "Reservas-Cine"]
+	path = Reservas-Cine
+	url = https://github.com/JonathanMiskinich/Reservas-Cine.git
